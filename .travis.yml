@@ -5,4 +5,4 @@ os:
     - "linux"
 
 script:
-    - python3 -m unittest.py || python -m unittest.py
+    - python3 -m unittest.py
